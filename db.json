@@ -1,0 +1,76 @@
+{
+  "products": [
+  {
+     "id":1,
+     "name":"Red T-shirt",
+     "price":"$20",
+     "img":"https://i.ibb.co/HPygHrD/product-1.jpg"
+  },
+  {
+     "id":2,
+     "name":"Black Shoes",
+     "price":"$40",
+     "img":"https://i.ibb.co/zrx7r22/product-2.jpg"
+  },
+  {
+     "id":3,
+     "name":"Grey Trouser",
+     "price":"$50",
+     "img":"https://i.ibb.co/dJhj7jw/product-3.jpg"
+  },
+  {
+     "id":4,
+     "name":"Blue T-shirt",
+     "price":"$20",
+     "img":"https://i.ibb.co/wzf4588/product-4.jpg"
+  },
+  {
+     "id":5,
+     "name":"White Shoes",
+     "price":"$45",
+     "img":"https://i.ibb.co/vPmH5Y8/product-5.jpg"
+  },
+  {
+     "id":6,
+     "name":"Black T-shirt",
+     "price":"$23",
+     "img":"https://i.ibb.co/61QMCwC/product-6.jpg"
+  },
+  {
+     "id":7,
+     "name":"Socks",
+     "price":"$10",
+     "img":"https://i.ibb.co/Y0CGSNj/product-7.jpg"
+  },
+  {
+     "id":8,
+     "name":"Fossil Watch",
+     "price":"$170",
+     "img":"https://i.ibb.co/vcRhMjm/product-8.jpg"
+  },
+  {
+     "id":9,
+     "name":"Roadster Watch",
+     "price":"$190",
+     "img":"https://i.ibb.co/XbHQX03/product-9.jpg"
+  },
+  {
+     "id":10,
+     "name":"HRX Black Shoe",
+     "price":"$50",
+     "img":"https://i.ibb.co/nnKPBn9/product-10.jpg"
+  },
+  {
+     "id":11,
+     "name":"White Sneaker",
+     "price":"$30",
+     "img":"https://i.ibb.co/HFyBnhs/product-11.jpg"
+  },
+  {
+     "id":12,
+     "name":"Black Trouser",
+     "price":"$55",
+     "img":"https://i.ibb.co/0tYjf6C/product-12.jpg"
+  }
+]
+}
